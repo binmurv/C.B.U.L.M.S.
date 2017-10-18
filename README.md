@@ -26,3 +26,12 @@ And you're all set. Type
     ``` php artisan serve ```
     
 to run this shit
+
+6. For updating
+```
+   git pull upstream master
+```
+then
+```
+  git push origin master
+```
